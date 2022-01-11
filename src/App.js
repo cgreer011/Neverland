@@ -32,7 +32,7 @@ export default function App({ ready }) {
       <OrbitControls
         makeDefault
         autoRotate
-        autoRotateSpeed={0.3}
+        autoRotateSpeed={1.5}
         maxPolarAngle={Math.PI / 2.3}
         minPolarAngle={Math.PI / 2.3}
         enableZoom={false}
